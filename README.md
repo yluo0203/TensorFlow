@@ -6,3 +6,5 @@ Link: https://www.udemy.com/share/1002oeAkcYcVtaQH4=/
 Open in Jupyter Notebook
 
 1. NodeAndTensor_session15
+
+2. Implement_Add-Multiply

@@ -13,4 +13,6 @@ Open in Jupyter Notebook
 
 4. Implement_Reduce sum
 
-5. 
+5. Implement_Random
+
+6. Implement_placeholder
